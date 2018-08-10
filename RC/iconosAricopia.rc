@@ -1,0 +1,8 @@
+////////////	<- this is comments
+// Icons
+////////////
+
+101  ICON  MOVEABLE PURE   "application_new.ico"
+102  ICON  MOVEABLE PURE   "workstation_network.ico"
+103  ICON  MOVEABLE PURE   "nou.ico"
+104  ICON  MOVEABLE PURE   "server_from_client.ico"

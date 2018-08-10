@@ -1,0 +1,19 @@
+////////////	<- this is comments
+// Icons
+////////////
+
+101  ICON  MOVEABLE PURE   "note_new.ico"
+102  ICON  MOVEABLE PURE   "eixir.ico"
+103  ICON  MOVEABLE PURE   "data_down.ico"
+104  ICON  MOVEABLE PURE   "document_into.ico"
+105  ICON  MOVEABLE PURE   "index_view.ico"
+106  ICON  MOVEABLE PURE   "text_code_colored.ico"
+107  ICON  MOVEABLE PURE   "disk_blue.ico"
+108  ICON  MOVEABLE PURE   "calculator.ico"
+109  ICON  MOVEABLE PURE   "line-chart.ico"
+110  ICON  MOVEABLE PURE   "inbox_into.ico"
+111  ICON  MOVEABLE PURE   "cashier.ico"
+112  ICON  MOVEABLE PURE   "form_green.ico"
+113  ICON  MOVEABLE PURE   "server_from_client.ico"
+114  ICON  MOVEABLE PURE   "mobilephone2.ico"
+115  ICON  MOVEABLE PURE   "about.ico"

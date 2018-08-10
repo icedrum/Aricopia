@@ -1,0 +1,4 @@
+Aricopia 1.0.5
+
+-Cambio la forma de abrirconexion, ya no partimos del odbc si no del driver 3.51 de mysql. 
+Necesitamos el fichero ConfigAricopia.ini, donde indicamos el servidor, usuario y contraseña.

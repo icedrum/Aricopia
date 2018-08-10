@@ -1,0 +1,26 @@
+////////////	<- this is comments
+// Icons
+////////////
+
+101  ICON  MOVEABLE PURE   "buscar_BN.ico"
+102  ICON  MOVEABLE PURE   "vore_tots_BN.ico"
+103  ICON  MOVEABLE PURE   "nou_BN.ico"
+104  ICON  MOVEABLE PURE   "editar_BN.ico"
+105  ICON  MOVEABLE PURE   "eliminar_BN.ico"
+106  ICON  MOVEABLE PURE   "primer_BN.ico"
+107  ICON  MOVEABLE PURE   "anterior_BN.ico"
+108  ICON  MOVEABLE PURE   "següent_BN.ico"
+109  ICON  MOVEABLE PURE   "últim_BN.ico"
+110  ICON  MOVEABLE PURE   "imprimir_BN.ico"
+111  ICON  MOVEABLE PURE   "eixir_BN.ico"
+112  ICON  MOVEABLE PURE   "eixir_BN.ico"
+113  ICON  MOVEABLE PURE   "conters_BN.ico"
+114  ICON  MOVEABLE PURE   "mail_BN.ico"
+115  ICON  MOVEABLE PURE   "opcions_BN.ico"
+116  ICON  MOVEABLE PURE   "document_into_BN.ico"
+117  ICON  MOVEABLE PURE   "application_new_BN.ico"
+118  ICON  MOVEABLE PURE   "environment_add_BN.ico"
+119  ICON  MOVEABLE PURE   "up_plus_BN.ico"
+120  ICON  MOVEABLE PURE   "delete_BN.ico"
+121  ICON  MOVEABLE PURE   "find_selection_BN.ico"
+122  ICON  MOVEABLE PURE   "disk_blue_BN.ico"

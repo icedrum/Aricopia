@@ -1,0 +1,32 @@
+/*
+SQLyog - Free MySQL GUI v5.18
+Host - 5.0.45-community-nt : Database - copiaversiones
+*********************************************************************
+Server version : 5.0.45-community-nt
+*/
+
+SET NAMES utf8;
+
+SET SQL_MODE='';
+
+SET @OLD_FOREIGN_KEY_CHECKS=@@FOREIGN_KEY_CHECKS, FOREIGN_KEY_CHECKS=0;
+SET @OLD_SQL_MODE=@@SQL_MODE, SQL_MODE='NO_AUTO_VALUE_ON_ZERO';
+
+/*Data for the table `aplicaciones` */
+
+insert into `aplicaciones` (`idaplicacion`,`nombre`,`ultimaversion`,`servidor`,`pathservidor`,`ejecutable`) values (0,'Ariaplicacion','','srv','c:\\programas\\Aplicacion','Aplicacion.exe');
+
+/*Data for the table `ficheroscopia` */
+
+insert into `ficheroscopia` (`idfic`,`idaplicacion`,`nombre`,`tipo`) values (0,0,'Aplicacion.exe',0);
+
+/*Data for the table `pcs` */
+
+insert into `pcs` (`idpcs`,`nompc`,`descripcion`) values (0,'pcejemplo','Manolo');
+
+/*Data for the table `pcscopia` */
+
+insert into `pcscopia` (`idpcs`,`idaplicacion`,`pathcopia`) values (0,0,'c:\\Archivos de Programa\\Ariadna\\Aplicacion');
+
+SET SQL_MODE=@OLD_SQL_MODE;
+SET FOREIGN_KEY_CHECKS=@OLD_FOREIGN_KEY_CHECKS;
